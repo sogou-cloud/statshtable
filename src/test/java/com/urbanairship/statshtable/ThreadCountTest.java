@@ -11,6 +11,7 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 
 import com.google.common.collect.Lists;
+import com.urbanairship.statshtable.StatsHTablePool;
 
 /**
  * There was an issue in early versions of statshtable where an excessive number of threads was being
